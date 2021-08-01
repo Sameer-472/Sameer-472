@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 
-Hi there! I'm Sameer and I am an aspiring Web developer from Pakistan.
-My future goals are:
+Hi there! I'm Sameer and I am an aspiring Web developer from Pakistan. \
+My future goals are: \
 Becoming a Web designer & developer
 Teaching and inspiring the next generation
 Freelance gigs
