@@ -2,12 +2,12 @@
 ### Hi there 👋
 
 
-Hi there! I'm Sameer and I am an aspiring Web developer from Pakistan. \
+Hi there! I'm Sameer and I am an aspiring Blockchain developer from Pakistan. \
 My future goals are: \
-Becoming a Web designer & developer \
+Becoming a Web3 & Blockchain developer \
 Teaching and inspiring the next generation \
 Freelance gigs \
-🌱 I’m currently self-learning CSS , JavaScript and React \
+🌱 I’m currently self-learning solidity , JavaScript and React \
 📫 You can reach me on: \
 
 ✨ https://twitter.com/Sameerkhan_45 (Twitter - most active) \
